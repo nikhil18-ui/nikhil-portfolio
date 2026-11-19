@@ -1,4 +1,4 @@
-# Nikhil Kumar Sah – Personal Portfolio
+# Nikhil Kumar  – Personal Portfolio
 
 A personal portfolio website showcasing my skills, education, projects, and journey as a BCA student and aspiring web developer.
 
